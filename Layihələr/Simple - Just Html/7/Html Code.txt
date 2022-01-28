@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Erasmus Registration Form</h1>
+
+<p>The form attribute specifies the form an input element belongs to.</p>
+
+<form action="/action_page.php" id="form1">
+  <label for="fname">University:</label>
+  <input type="text" id="fname" name="fname"><br><br>
+  <input type="submit" value="Submit">
+</form>
+
+<p>If you do not know your average score, you can ask your university for a transcript</p>
+
+<label for="lname">GPA:</label>
+<input type="text" id="lname" name="lname" form="form1">
+
+</body>
+</html>
+

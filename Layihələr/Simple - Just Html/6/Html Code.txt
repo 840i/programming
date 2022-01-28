@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.place {
+  background-color: yellow;
+  color: black;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+}
+</style>
+</head>
+<body>
+
+<div class="place">
+<h2>Palace of Shaki Khans</h2>
+<p>Located in Shaki</p>
+</div> 
+
+<div class="place">
+<h2>Mingachevir reservoir</h2>
+<p>Located in Mingachevir.</p>
+</div>
+
+<div class="place">
+<h2>Goygol Lake</h2>
+<p>Located in Goygol.</p>
+</div>
+
+</body>
+</html>
+
